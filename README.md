@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 •	Tableau
 •	Familiar with Python and R 
 •	SQL
--languageS
+
+-languages
 English and French
 
 -skills
