@@ -14,7 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->tools
--languages
+•Microsoft office suite
+•	Microsoft Azure 
+•	MYSQL
+•	Tableau
+•	Familiar with Python and R 
+•	SQL
+-languageS
+English and French
 -skills
+•	Microsoft office suite
+•	Microsoft Azure 
+•	MYSQL
+•	Tableau
+•	Familiar with Python and R
+•Good communication skills
+•	Leadership skills
+•	SQL
 -background
+Business administration, statistics,Business and Data analytics.
 
